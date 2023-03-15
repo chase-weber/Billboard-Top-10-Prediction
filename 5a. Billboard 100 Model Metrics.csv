@@ -1,0 +1,21 @@
+Hyperparameters,,
+Light Gradient Boosting Machine - ALL FACTORS,n_leaves,1815
+,n_estimators,147
+,max_depth,3
+,learning_rate,0.82
+,,
+Light Gradient Boosting Machine - CONTROLLABLE ,n_leaves,666
+,n_estimators,88
+,max_depth,16
+,learning_rate,0.77
+,,
+Metrics,,
+Light Gradient Boosting Machine - ALL FACTORS,MAE,5.8958
+,MSE,79.4554
+,RMSE,8.9138
+,R2,0.9044
+,,
+Light Gradient Boosting Machine - CONTROLLABLE ,MAE,17.9598
+,MSE,513.9297
+,RMSE,22.67
+,R2,0.382
